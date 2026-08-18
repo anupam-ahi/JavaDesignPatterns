@@ -1,4 +1,4 @@
-package org.example.adapterPattern;
+package org.example.adapterPattern.SchoolAndPenExample;
 
 public class AssignmentWork {
     public Pen getP() {
